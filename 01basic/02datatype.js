@@ -20,3 +20,10 @@ console.log(typeof address);
 let id=Symbol('123');
 let anotherid=Symbol('123');
 console.log(id===anotherid);
+let score="33"
+let score=null;
+let score="gift"
+let score=true
+console.log(typeof score);
+let newvar=Number(score);
+console.log(typeof newvar);
